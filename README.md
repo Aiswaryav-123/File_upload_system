@@ -14,8 +14,17 @@ A secure file upload system built with PHP and MySQL, which allows users to regi
 - Frontend: HTML, CSS
 - Database: MySQL
 ## Run Locally
+Clone the project
 ```markdown
 
 git clone https://github.com/Aiswaryav-123/File_upload_system
 
+```
+Go to the project directory
+```markdown
+cd File_upload_system
+```
+Start the server
+``` marksown
+php -S localhost:8000
 ```
