@@ -30,6 +30,13 @@ php -S localhost:8000
 ```
 
 # Screenshots
-![Alt Text](file.png)
+<p align="center">
+    ![Alt Text](file.png)
+    ![Alt Text](file2.png)
+</p>
+<p align="center">
+    ![Alt Text](file3.png)
+    ![Alt Text](file24.png)
+</p>
 
 
