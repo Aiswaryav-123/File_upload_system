@@ -32,9 +32,9 @@ php -S localhost:8000
 # Screenshots
 <p align="center">
  <img src="file.png" alt="a" width="45%" />
- <img src="fil2.png" alt="a1" width="45%" />
+ <img src="file2.png" alt="a1" width="45%" />
 </p>
 <p align="center">
-  <img src="fil23.png" alt="a2" width="45%" />
-   <img src="fil4.png" alt="a3" width="45%" />
+  <img src="file3.png" alt="a2" width="45%" />
+   <img src="file4.png" alt="a3" width="45%" />
 </p>
