@@ -4,7 +4,7 @@ A secure file upload system built with PHP and MySQL, which allows users to regi
 ## Features
 - User registration and login using username and password.
 - Secure file upload with:
-    . Allowed file types: .jpg, .png, .pdf, .docx
-    . Maximum file size: 5 MB
-    . Unique file naming to prevent overwriting
+    - Allowed file types: .jpg, .png, .pdf, .docx
+    - Maximum file size: 5 MB
+    - Unique file naming to prevent overwriting
 - Logging of all file uploads : IP address, upload timestamp, file_status
