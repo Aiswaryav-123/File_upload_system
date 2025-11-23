@@ -13,3 +13,9 @@ A secure file upload system built with PHP and MySQL, which allows users to regi
 - Backend: PHP, MySQL
 - Frontend: HTML, CSS
 - Database: MySQL
+## Run Locally
+```markdown
+
+git clone https://github.com/Aiswaryav-123/File_upload_system
+
+```
