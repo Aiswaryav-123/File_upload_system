@@ -8,3 +8,8 @@ A secure file upload system built with PHP and MySQL, which allows users to regi
     - Maximum file size: 5 MB
     - Unique file naming to prevent overwriting
 - Logging of all file uploads : IP address, upload timestamp, file_status
+
+## Technologies Used
+- Backend: PHP, MySQL
+- Frontend: HTML, CSS
+- Database: MySQL
