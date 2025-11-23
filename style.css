@@ -1,8 +1,8 @@
-/* style.css */
+
 body {
-    background-color: #e3f0f0; /* or any color you want */
+    background-color: #e3f0f0;
     font-family: Arial, sans-serif;
-    text-align: center;  /* center text and inline elements horizontally */
+    text-align: center;  
 }
 
 .login {
