@@ -30,11 +30,11 @@ php -S localhost:8000
 ```
 
 # Screenshots
-![Alt Text](file.png)
-![Alt Text](file2.png)
-
-![Alt Text](file3.png)
-![Alt Text](file4.png)
-
- <img src="file.png" alt="ras_upload" width="45%" />
-
+<p align="center">
+ <img src="file.png" alt="a" width="45%" />
+ <img src="fil2.png" alt="a1" width="45%" />
+</p>
+<p align="center">
+  <img src="fil23.png" alt="a2" width="45%" />
+   <img src="fil4.png" alt="a3" width="45%" />
+</p>
